@@ -46,3 +46,5 @@ Este cultivo necesita más atención y más cuidados, así como de conocimientos
 6. Mangueras
 7. Sensores (luz, ph, humedad, etc)
 
+
+
