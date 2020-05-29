@@ -1,9 +1,14 @@
 # **Proyecto Hidroponia**
 
 ## ¿Que es la hidroponia?
+<p align="justify">
 La hidroponía te permite diseñar estructuras simples y/o complejas favoreciendo las condiciones ambientales idóneas para producir cualquier planta de tipo herbáceo aprovechando en su totalidad cualquier área (azoteas jardines, suelos infértiles, terrenos escabrosos, etc) sin importar las dimensiones como el estado físico de estas.
+</p>
+<p align="justify">
 En otras definiciones.
 La Hidroponía es una forma de cultivo en que la raíz crece dentro de una mezcla de agua y fertilizantes, de tal manera que la planta sólo puede alimentarse de los nutrientes presentes en esa mezcla. Esto hace la diferencia con los cultivos tradicionales, en que la planta obtiene su alimentación desde la tierra en que crecen las raíces o desde la tierra más los fertilizantes que se le aplican.
+</p>
+
 
 ## ¿Por qué la hidroponía?
 
