@@ -25,6 +25,7 @@ Al no utilizar tierra, se puede reducir el peso del conjunto. Esto es ideal para
  Al no utilizar tierra, se desprende menos partículas de arena, con lo que es un sistema más limpio.
 En hidroponía, el agua con nutrientes se puede reutilizar. Así se puede conseguir un ahorro en agua y nutrientes de hasta el 50% en comparación con el riego convencional.
  </p>
+ https://www.cordobatimes.com/wp-content/uploads/2018/01/hidroponia4-759x500-1280x720.jpg
  
 #### **Desventajas de la hidroponía**
 <p align="justify">
