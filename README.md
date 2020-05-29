@@ -44,5 +44,5 @@ Este cultivo necesita más atención y más cuidados, así como de conocimientos
 4. Placa arduino
 5. Protoboard
 6. Mangueras
-7. Sensores (luz , ph , humedad, etc)
+7. Sensores (luz, ph, humedad, etc)
 
