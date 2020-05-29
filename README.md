@@ -1,25 +1,39 @@
-![](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F1118167163%2F960x0.jpg%3Ffit%3Dscale)
+# **Proyecto Hidroponia**
 
-# ¿Qué es un tablero Kanban?
+## ¿Que es la hidroponia?
+La hidroponía te permite diseñar estructuras simples y/o complejas favoreciendo las condiciones ambientales idóneas para producir cualquier planta de tipo herbáceo aprovechando en su totalidad cualquier área (azoteas jardines, suelos infértiles, terrenos escabrosos, etc) sin importar las dimensiones como el estado físico de estas.
+En otras definiciones.
+La Hidroponía es una forma de cultivo en que la raíz crece dentro de una mezcla de agua y fertilizantes, de tal manera que la planta sólo puede alimentarse de los nutrientes presentes en esa mezcla. Esto hace la diferencia con los cultivos tradicionales, en que la planta obtiene su alimentación desde la tierra en que crecen las raíces o desde la tierra más los fertilizantes que se le aplican.
 
-Un tablero Kanban es una de las herramientas más populares para aumentar la productividad. Ninguno de los métodos de gestión de proyectos existentes es a la vez tan fácil de usar y tan eficaz como el método Kanban. Los tableros Kanban se han hecho populares entre muchas empresas de diferentes industrias del mundo entero para mejorar la transparencia, la productividad y la eficiencia de su organización. Los tableros Kanban tradicionales fueron un gran invento, pero existe algo todavía más innovador - ¡un tablero Kanban online via GitHub! Es la combinación perfecta de los apreciados principios del método Kanban con lo último en tecnología, para ayudar a tu negocio a triunfar en el mercado competitivo; justificando esto la necesidad del estudiante ISC logré trabajar con estas herramientas gestión de proyectos.
+## ¿Por qué la hidroponía?
 
-Los tableros Kanban pueden personalizarse a la perfección para adaptarse el flujo de trabajo y necesidades. Por ejemplo, muchos equipos de software están empezando a compartir tableros Kanban para aumentar la visibilidad, encargarse de las interrupciones y acelerar el flujo de trabajo. El sencillo tablero Kanban les permite gestionar el proceso de desarrollo, enfocando la atención en los puntos importantes y entregando un software de mayor calidad y de manera más rápida.
+#### **Ventajas**
+Existen ciertas ventajas de la hidroponía sobre los cultivos tradicionales y que justifican su aplicación. Probablemente las más importantes son:
+ La planta debe invertir materia y energía para hacer crecer a las raíces en busca de nuevo sustrato para alimentarse. En hidroponía, dichos nutrientes se le entregan a la planta directamente, así que la energía que se habría gastado en desarrollar raíces se puede redirigir al crecimiento de hojas, flores y frutos.
+Las raíces ocupan menos espacio y pueden usarse maceteros o recipientes más pequeños. Esto significa que puedes tener más plantas en una menor superficie que la necesaria con otros métodos. Algo muy valioso para personas como nosotros que disponemos de poco lugar en nuestros hogares urbanos.
+Requieren normalmente mucha menos agua que los cultivos tradicionales. Por supuesto, esto tiene un valor ambiental, pero se vuelve vital en aquellos casos y lugares donde no es posible obtener suficiente agua para cultivos en tierra.
+Tú alimentas tus plantas, así que sabes perfectamente qué es lo que ellas consumen. No tienes la duda sobre qué fertilizantes, aditivos, calidad de tierra o calidad de agua se utilizaron en los vegetales que comes.
+La mayor parte del cultivo es automatizable, lo que significa que puedes dedicar más tiempo a disfrutar de tus plantas, podarlas, cosecharlas y contemplarlas. Además, puedes salir de vacaciones sin necesidad de recurrir a algún amigo para que las cuide.
+Como las raíces reciben el alimento óptimo, no necesitan crecer en busca de agua. Por lo tanto la planta necesita menos espacio para su cultivo. El resultado: más plantas en menos espacio.
+Al no utilizar tierra, se puede reducir el peso del conjunto. Esto es ideal para estructuras verticales.
+ Al no utilizar tierra, se desprende menos partículas de arena, con lo que es un sistema más limpio.
+En hidroponía, el agua con nutrientes se puede reutilizar. Así se puede conseguir un ahorro en agua y nutrientes de hasta el 50% en comparación con el riego convencional.
+#### **Desventajas de la hidroponía**
+Se necesita un control más estricto del riego: tiene que ajustarse a las necesidades de la planta y debe ser constante en el tiempo.
+Un control del riego se consigue fácilmente con una automatización del riego, que requiere del uso de energía.
+Se incrementa el coste de la instalación. No tiene el mismo coste una maceta convencional que una maceta con riego automatico hidroponico.
+Son plantas más sensibles a los cambios que puedan darse en los lugares donde se encuentran.
+Este cultivo necesita más atención y más cuidados, así como de conocimientos más técnico
 
-Kanban "La Idea en mantener el flujo y eliminar perdida". (http://kanbantool.com/kanban-library/introduction http://virtualkanban.net)
 
-## OBJETIVO FINAL Mantener los limites exactos del desarrollo par esto requiere atención, podemos empezar y refinar con el tiempo.
+![error al cargar](https://hidroponia.org.mx/images/op1ervis/HIDROPONIA-SISTEMA-NFT-KALE.jpg)
 
-_Evitar tratar de 2 cosas a la vez, ponerlos en lista de pendiente y todo requiere asignación_
+## Algunos Materiales
+1. Sustrato para plantas                                
+2. Semillas 
+3. Bomba de agua sumergible 
+4. Placa arduino
+5. Protoboard
+6. Mangueras
+7. Sensores (luz , ph , humedad, etc)
 
-_Coding ... Testing (Buffer ... Working), no sobre pasar trabajo a otros colegas._
-
-# **ACTIVIDAD** https://es.wikipedia.org/wiki/Kanban_(desarrollo) http://leansoftwareengineering.com/ksse/scrum-ban/
-
-## Kanban para Desarrollo de Software recomendable es: Backlog ---- Development ---- Testing ---- Production ---- Ready
-
-Referencias: 
-
-https://leanandkanban.files.wordpress.com/2009/04/kanban-for-software-engineering-apr-242.pdf
-
-https://www.tutorialspoint.com/kanban/kanban_tutorial.pdf https://www.getapp.com/project-management-planning-software/
