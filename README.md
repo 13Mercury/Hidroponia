@@ -49,12 +49,14 @@ Este cultivo necesita más atención y más cuidados, así como de conocimientos
 ## Circuito de sensores y arduino
 ![Circuito](https://github.com/VazquezAdolfo/Hidroponia/blob/master/Circuitos/CircuitoCompleto.PNG)
 
-Que esta compuesto por varios sensores y complementos para mostrar los valores que va generando el sistema de hidroponia. Contiene:
+Que esta compuesto por varios sensores, arduino y raspberry pi para mostrar los valores que va generando el sistema de hidroponia. Contiene:
 * Sensor de temperatura
 * Sensor de humedad
 * Sensor de pH
 * Sensor del nivel del agua
 * Una bomba de agua
 * Buzzer
-* Iluminacion led
+* Iluminacion
+* Arduino nano
+* Raspberry PI
 
